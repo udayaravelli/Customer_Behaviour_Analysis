@@ -14,36 +14,37 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 <img width="4872" height="2656" alt="500731798-8bbd5dc9-eb6c-40c1-8f19-c08b4107f654" src="https://github.com/user-attachments/assets/1721e446-5c3c-4187-9e36-98014404c9fa" />
 
 🛠️ How to Use This Project
-Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
-This file contains:
+1. Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
-Data Import
+  This file contains:
 
-Data exploration
+    --> Data Import
 
-Data cleaning
+    --> Data exploration
 
-Connection to SQL Database
+    --> Data cleaning
 
-Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
+    --> Connection to SQL Database
 
-Create a database in SQL
+2. Load the data from Python notebook into MySQL Server
 
-Run Python code to load data into SQL database
+    --> Create a database in SQL
 
-Open customer_behavior_sql_queries.sql
+    --> Run Python code to load data into SQL database
 
-Answer Business Questions using SQL Queries
+    --> Open customer_behavior_sql_queries.sql
 
-Connect the SQL Database to Power BI
+    --> Answer Business Questions using SQL Queries
 
-Open customer_behavior_dashboard.pbix
+3. Connect the SQL Database to Power BI
 
-Create interactive dashboard in Power BI
+    --> Open customer_behavior_dashboard.pbix
 
-Create Project Report and Presentation
+    --> Create interactive dashboard in Power BI
 
-Create project report
+4. Create Project Report and Presentation
 
-Build presentation deck using Gamma AI
+    --> Create project report
+
+    --> Build presentation deck using Gamma AI
